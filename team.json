@@ -1,0 +1,143 @@
+{
+  "apikey": "b63001b4-1f2b-49b3-8470-7b9d819ac1c7",
+  "data": [
+    {
+      "id": "zw",
+      "name": "Zimbabwe",
+      "genericFlag": "https://cdorg.b-cdn.net/flags/generic/ZW.svg"
+    },
+    {
+      "id": "zm",
+      "name": "Zambia",
+      "genericFlag": "https://cdorg.b-cdn.net/flags/generic/ZM.svg"
+    },
+    {
+      "id": "za",
+      "name": "South Africa",
+      "genericFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/800px-Flag_of_South_Africa.svg.png?20221218180510"
+    },
+    {
+      "id": "yt",
+      "name": "Mayotte",
+      "genericFlag": "https://cdorg.b-cdn.net/flags/generic/YT.svg"
+    },
+    {
+      "id": "ye",
+      "name": "Yemen",
+      "genericFlag": "https://cdorg.b-cdn.net/flags/generic/YE.svg"
+    },
+    {
+      "id": "ws",
+      "name": "Samoa",
+      "genericFlag": "https://cdorg.b-cdn.net/flags/generic/WS.svg"
+    },
+    {
+      "id": "wf",
+      "name": "Wallis and Futuna",
+      "genericFlag": "https://cdorg.b-cdn.net/flags/generic/WF.svg"
+    },
+    {
+      "id": "vu",
+      "name": "Vanuatu",
+      "genericFlag": "https://cdorg.b-cdn.net/flags/generic/VU.svg"
+    },
+    {
+      "id": "vn",
+      "name": "Viet Nam",
+      "genericFlag": "https://cdorg.b-cdn.net/flags/generic/VN.svg"
+    },
+    {
+      "id": "vi",
+      "name": "Virgin Islands (U.S.)",
+      "genericFlag": "https://cdorg.b-cdn.net/flags/generic/VI.svg"
+    },
+    {
+      "id": "vg",
+      "name": "Virgin Islands (British)",
+      "genericFlag": "https://cdorg.b-cdn.net/flags/generic/VG.svg"
+    },
+    {
+      "id": "ve",
+      "name": "Venezuela",
+      "genericFlag": "https://cdorg.b-cdn.net/flags/generic/VE.svg"
+    },
+    {
+      "id": "vc",
+      "name": "Saint Vincent and the Grenadines",
+      "genericFlag": "https://cdorg.b-cdn.net/flags/generic/VC.svg"
+    },
+    {
+      "id": "va",
+      "name": "Holy See",
+      "genericFlag": "https://cdorg.b-cdn.net/flags/generic/VA.svg"
+    },
+    {
+      "id": "uz",
+      "name": "Uzbekistan",
+      "genericFlag": "https://cdorg.b-cdn.net/flags/generic/UZ.svg"
+    },
+    {
+      "id": "uy",
+      "name": "Uruguay",
+      "genericFlag": "https://cdorg.b-cdn.net/flags/generic/UY.svg"
+    },
+    {
+      "id": "us",
+      "name": "United States of America",
+      "genericFlag": "https://cdorg.b-cdn.net/flags/generic/US.svg"
+    },
+    {
+      "id": "um",
+      "name": "United States Minor Outlying Islands",
+      "genericFlag": "https://cdorg.b-cdn.net/flags/generic/UM.svg"
+    },
+    {
+      "id": "ug",
+      "name": "Uganda",
+      "genericFlag": "https://cdorg.b-cdn.net/flags/generic/UG.svg"
+    },
+    {
+      "id": "ua",
+      "name": "Ukraine",
+      "genericFlag": "https://cdorg.b-cdn.net/flags/generic/UA.svg"
+    },
+    {
+      "id": "tz",
+      "name": "Tanzania, the United Republic of",
+      "genericFlag": "https://cdorg.b-cdn.net/flags/generic/TZ.svg"
+    },
+    {
+      "id": "tw",
+      "name": "Taiwan",
+      "genericFlag": "https://cdorg.b-cdn.net/flags/generic/TW.svg"
+    },
+    {
+      "id": "tv",
+      "name": "Tuvalu",
+      "genericFlag": "https://cdorg.b-cdn.net/flags/generic/TV.svg"
+    },
+    {
+      "id": "tt",
+      "name": "Trinidad and Tobago",
+      "genericFlag": "https://cdorg.b-cdn.net/flags/generic/TT.svg"
+    },
+    {
+      "id": "tr",
+      "name": "Turkey",
+      "genericFlag": "https://cdorg.b-cdn.net/flags/generic/TR.svg"
+    }
+  ],
+  "status": "success",
+  "info": {
+    "hitsToday": 3,
+    "hitsUsed": 1,
+    "hitsLimit": 100,
+    "credits": 0,
+    "server": 23,
+    "offsetRows": 0,
+    "totalRows": 249,
+    "queryTime": 15.1447,
+    "s": 0,
+    "cache": 0
+  }
+}

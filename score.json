@@ -1,0 +1,711 @@
+{
+  "apikey": "73606b7e-12b4-4485-acf3-3ae6d96394e0",
+  "data": {
+    "id": "86c9b501-48d1-40f1-bd18-7e6c87ee2930",
+    "name": "South Africa vs Bangladesh, 23rd Match",
+    "matchType": "odi",
+    "status": "South Africa won by 149 runs",
+    "venue": "Wankhede Stadium, Mumbai",
+    "date": "2023-10-24",
+    "dateTimeGMT": "2023-10-24T08:30:00",
+    "teams": ["South Africa", "Bangladesh"],
+    "teamInfo": [
+      {
+        "name": "Bangladesh",
+        "shortname": "BAN",
+        "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+      },
+      {
+        "name": "South Africa",
+        "shortname": "RSA",
+        "img": "https://g.cricapi.com/iapi/82-637877071839088912.webp?w=48"
+      }
+    ],
+    "score": [
+      { "r": 382, "w": 5, "o": 50, "inning": "South Africa Inning 1" },
+      { "r": 233, "w": 10, "o": 46.4, "inning": "Bangladesh Inning 1" }
+    ],
+    "tossWinner": "South Africa",
+    "tossChoice": "bat",
+    "matchWinner": "South Africa",
+    "series_id": "bd830e89-3420-4df5-854d-82cfab3e1e04",
+    "scorecard": [
+      {
+        "batting": [
+          {
+            "batsman": {
+              "id": "000f9f7c-cc24-4a85-8638-b013b0f4760e",
+              "name": "Quinton de Kock"
+            },
+            "dismissal": "catch",
+            "bowler": {
+              "id": "6177f30d-6d67-4f53-b014-3c41eb8cb757",
+              "name": "Hasan Mahmud"
+            },
+            "catcher": {
+              "id": "97954ec1-0845-4330-b603-9b771df570c8",
+              "name": "Nasum Ahmed "
+            },
+            "dismissal-text": "c nasum ahmed b hasan mahmud",
+            "r": 174,
+            "b": 140,
+            "4s": 15,
+            "6s": 7,
+            "sr": 124.29,
+            "": 0
+          },
+          {
+            "batsman": {
+              "id": "943c1332-8845-460b-93c9-3714d97f8788",
+              "name": "Reeza Hendricks"
+            },
+            "dismissal": "bowled",
+            "bowler": {
+              "id": "217cafe4-5b6e-4b2b-b7ac-1b52b2b15a1c",
+              "name": "Shoriful Islam"
+            },
+            "dismissal-text": "b shoriful islam",
+            "r": 12,
+            "b": 19,
+            "4s": 1,
+            "6s": 0,
+            "sr": 63.16,
+            "": 0
+          },
+          {
+            "batsman": {
+              "id": "4952c32d-ffb2-4070-bc15-ceb3989c229b",
+              "name": "Rassie van der Dussen"
+            },
+            "dismissal": "lbw",
+            "bowler": {
+              "id": "218cc9f0-91f3-4927-af4a-a4601336d545",
+              "name": "Mehidy Hasan Miraz"
+            },
+            "dismissal-text": "lbw b mehidy hasan miraz",
+            "r": 1,
+            "b": 7,
+            "4s": 0,
+            "6s": 0,
+            "sr": 14.29,
+            "": 0
+          },
+          {
+            "batsman": {
+              "id": "3fef81b0-c1e9-45eb-954f-519f3b33d640",
+              "name": "Aiden Markram"
+            },
+            "dismissal": "catch",
+            "bowler": {
+              "id": "f668f7ea-c720-4352-9435-840c3749b1e5",
+              "name": "Shakib Al Hasan"
+            },
+            "catcher": {
+              "id": "185c8905-4ca3-4e13-93f6-563d99600b58",
+              "name": "Litton Das"
+            },
+            "dismissal-text": "c litton das b shakib",
+            "r": 60,
+            "b": 69,
+            "4s": 7,
+            "6s": 0,
+            "sr": 86.96,
+            "": 0
+          },
+          {
+            "batsman": {
+              "id": "7d662361-8f12-4a52-9a4b-01e8734bd31d",
+              "name": "Heinrich Klaasen"
+            },
+            "dismissal": "catch",
+            "bowler": {
+              "id": "6177f30d-6d67-4f53-b014-3c41eb8cb757",
+              "name": "Hasan Mahmud"
+            },
+            "catcher": {
+              "id": "80a056bf-343f-44e8-82de-db59340f77bb",
+              "name": "Mahmudullah"
+            },
+            "dismissal-text": "c mahmudullah b hasan mahmud",
+            "r": 90,
+            "b": 49,
+            "4s": 2,
+            "6s": 8,
+            "sr": 183.67,
+            "": 0
+          },
+          {
+            "batsman": {
+              "id": "2f50df2f-809d-44f9-b5be-ccb846515861",
+              "name": "David Miller"
+            },
+            "dismissal-text": "not out",
+            "r": 34,
+            "b": 15,
+            "4s": 1,
+            "6s": 4,
+            "sr": 226.67,
+            "": 0
+          },
+          {
+            "batsman": {
+              "id": "d3c53885-7016-4228-8a20-1dd98214489d",
+              "name": "Marco Jansen"
+            },
+            "dismissal-text": "not out",
+            "r": 1,
+            "b": 1,
+            "4s": 0,
+            "6s": 0,
+            "sr": 100,
+            "": 0
+          }
+        ],
+        "bowling": [
+          {
+            "bowler": {
+              "id": "4a0a483d-de7f-4313-b2ed-8eceb3d8bb45",
+              "name": "Mustafizur Rahman"
+            },
+            "o": 9,
+            "m": 0,
+            "r": 76,
+            "w": 0,
+            "nb": 0,
+            "wd": 2,
+            "eco": 8.4
+          },
+          {
+            "bowler": {
+              "id": "218cc9f0-91f3-4927-af4a-a4601336d545",
+              "name": "Mehidy Hasan Miraz"
+            },
+            "o": 9,
+            "m": 0,
+            "r": 44,
+            "w": 1,
+            "nb": 0,
+            "wd": 2,
+            "eco": 4.9
+          },
+          {
+            "bowler": {
+              "id": "217cafe4-5b6e-4b2b-b7ac-1b52b2b15a1c",
+              "name": "Shoriful Islam"
+            },
+            "o": 9,
+            "m": 0,
+            "r": 76,
+            "w": 1,
+            "nb": 0,
+            "wd": 0,
+            "eco": 8.4
+          },
+          {
+            "bowler": {
+              "id": "f668f7ea-c720-4352-9435-840c3749b1e5",
+              "name": "Shakib Al Hasan"
+            },
+            "o": 9,
+            "m": 0,
+            "r": 69,
+            "w": 1,
+            "nb": 0,
+            "wd": 1,
+            "eco": 7.7
+          },
+          {
+            "bowler": {
+              "id": "6177f30d-6d67-4f53-b014-3c41eb8cb757",
+              "name": "Hasan Mahmud"
+            },
+            "o": 6,
+            "m": 0,
+            "r": 67,
+            "w": 2,
+            "nb": 0,
+            "wd": 1,
+            "eco": 11.2
+          },
+          {
+            "bowler": {
+              "id": "97954ec1-0845-4330-b603-9b771df570c8",
+              "name": "Nasum Ahmed "
+            },
+            "o": 5,
+            "m": 0,
+            "r": 27,
+            "w": 0,
+            "nb": 0,
+            "wd": 0,
+            "eco": 5.4
+          },
+          {
+            "bowler": {
+              "id": "80a056bf-343f-44e8-82de-db59340f77bb",
+              "name": "Mahmudullah"
+            },
+            "o": 3,
+            "m": 0,
+            "r": 20,
+            "w": 0,
+            "nb": 0,
+            "wd": 1,
+            "eco": 6.7
+          }
+        ],
+        "catching": [
+          {
+            "stumped": 0,
+            "runout": 0,
+            "catch": 1,
+            "cb": 0,
+            "lbw": 0,
+            "bowled": 0,
+            "catcher": {
+              "id": "97954ec1-0845-4330-b603-9b771df570c8",
+              "name": "Nasum Ahmed "
+            }
+          },
+          {
+            "stumped": 0,
+            "runout": 0,
+            "catch": 1,
+            "cb": 0,
+            "lbw": 0,
+            "bowled": 0,
+            "catcher": {
+              "id": "185c8905-4ca3-4e13-93f6-563d99600b58",
+              "name": "Litton Das"
+            }
+          },
+          {
+            "stumped": 0,
+            "runout": 0,
+            "catch": 1,
+            "cb": 0,
+            "lbw": 0,
+            "bowled": 0,
+            "catcher": {
+              "id": "80a056bf-343f-44e8-82de-db59340f77bb",
+              "name": "Mahmudullah"
+            }
+          },
+          {
+            "stumped": 0,
+            "runout": 0,
+            "catch": 0,
+            "cb": 0,
+            "lbw": 0,
+            "bowled": 1,
+            "catcher": {
+              "id": "217cafe4-5b6e-4b2b-b7ac-1b52b2b15a1c",
+              "name": "Shoriful Islam"
+            }
+          },
+          {
+            "stumped": 0,
+            "runout": 0,
+            "catch": 0,
+            "cb": 0,
+            "lbw": 1,
+            "bowled": 0,
+            "catcher": {
+              "id": "218cc9f0-91f3-4927-af4a-a4601336d545",
+              "name": "Mehidy Hasan Miraz"
+            }
+          }
+        ],
+        "extras": { "r": 10, "b": 0 },
+        "totals": {},
+        "inning": "South Africa Inning 1"
+      },
+      {
+        "batting": [
+          {
+            "batsman": {
+              "id": "b5fe522c-d6fd-4358-b361-d40a2f435adb",
+              "name": "Tanzid Hasan"
+            },
+            "dismissal": "catch",
+            "bowler": {
+              "id": "d3c53885-7016-4228-8a20-1dd98214489d",
+              "name": "Marco Jansen"
+            },
+            "catcher": {
+              "id": "7d662361-8f12-4a52-9a4b-01e8734bd31d",
+              "name": "Heinrich Klaasen"
+            },
+            "dismissal-text": "c klaasen b marco jansen",
+            "r": 12,
+            "b": 17,
+            "4s": 1,
+            "6s": 0,
+            "sr": 70.59,
+            "": 0
+          },
+          {
+            "batsman": {
+              "id": "185c8905-4ca3-4e13-93f6-563d99600b58",
+              "name": "Litton Das"
+            },
+            "dismissal": "lbw",
+            "bowler": {
+              "id": "a81da20a-e420-476a-baf6-204fc219dbdd",
+              "name": "Kagiso Rabada"
+            },
+            "dismissal-text": "lbw b rabada",
+            "r": 22,
+            "b": 44,
+            "4s": 3,
+            "6s": 1,
+            "sr": 50,
+            "": 0
+          },
+          {
+            "batsman": {
+              "id": "51a3ae4d-37b0-4e44-ba63-8bb3f789b386",
+              "name": "Najmul Hossain Shanto"
+            },
+            "dismissal": "catch",
+            "bowler": {
+              "id": "d3c53885-7016-4228-8a20-1dd98214489d",
+              "name": "Marco Jansen"
+            },
+            "catcher": {
+              "id": "7d662361-8f12-4a52-9a4b-01e8734bd31d",
+              "name": "Heinrich Klaasen"
+            },
+            "dismissal-text": "c klaasen b marco jansen",
+            "r": 0,
+            "b": 1,
+            "4s": 0,
+            "6s": 0,
+            "sr": 0,
+            "": 0
+          },
+          {
+            "batsman": {
+              "id": "f668f7ea-c720-4352-9435-840c3749b1e5",
+              "name": "Shakib Al Hasan"
+            },
+            "dismissal": "catch",
+            "bowler": {
+              "id": "915fed39-1b6a-4bb0-b7ef-88ee2f4152fd",
+              "name": "Lizaad Williams"
+            },
+            "catcher": {
+              "id": "7d662361-8f12-4a52-9a4b-01e8734bd31d",
+              "name": "Heinrich Klaasen"
+            },
+            "dismissal-text": "c klaasen b williams",
+            "r": 1,
+            "b": 4,
+            "4s": 0,
+            "6s": 0,
+            "sr": 25,
+            "": 0
+          },
+          {
+            "batsman": {
+              "id": "7bb5f657-2d95-4d37-a7d9-0b7b03a43f17",
+              "name": "Mushfiqur Rahim"
+            },
+            "dismissal": "catch",
+            "bowler": {
+              "id": "dd632169-52e3-4327-830e-dc5a9d18faa5",
+              "name": "Gerald Coetzee"
+            },
+            "catcher": {
+              "id": "80504beb-b413-40aa-bfca-d13e7e585fb5",
+              "name": "Andile Phehlukwayo"
+            },
+            "dismissal-text": "c phehlukwayo b gerald coetzee",
+            "r": 8,
+            "b": 17,
+            "4s": 1,
+            "6s": 0,
+            "sr": 47.06,
+            "": 0
+          },
+          {
+            "batsman": {
+              "id": "80a056bf-343f-44e8-82de-db59340f77bb",
+              "name": "Mahmudullah"
+            },
+            "dismissal": "catch",
+            "bowler": {
+              "id": "dd632169-52e3-4327-830e-dc5a9d18faa5",
+              "name": "Gerald Coetzee"
+            },
+            "catcher": {
+              "id": "d3c53885-7016-4228-8a20-1dd98214489d",
+              "name": "Marco Jansen"
+            },
+            "dismissal-text": "c marco jansen b gerald coetzee",
+            "r": 111,
+            "b": 111,
+            "4s": 11,
+            "6s": 4,
+            "sr": 100,
+            "": 0
+          },
+          {
+            "batsman": {
+              "id": "218cc9f0-91f3-4927-af4a-a4601336d545",
+              "name": "Mehidy Hasan Miraz"
+            },
+            "dismissal": "catch",
+            "bowler": {
+              "id": "97e9fec3-81bd-4018-a803-422c7d6d53aa",
+              "name": "Keshav Maharaj"
+            },
+            "catcher": {
+              "id": "80504beb-b413-40aa-bfca-d13e7e585fb5",
+              "name": "Andile Phehlukwayo"
+            },
+            "dismissal-text": "c phehlukwayo b maharaj",
+            "r": 11,
+            "b": 19,
+            "4s": 1,
+            "6s": 0,
+            "sr": 57.89,
+            "": 0
+          },
+          {
+            "batsman": {
+              "id": "97954ec1-0845-4330-b603-9b771df570c8",
+              "name": "Nasum Ahmed "
+            },
+            "dismissal": "cb",
+            "bowler": {
+              "id": "dd632169-52e3-4327-830e-dc5a9d18faa5",
+              "name": "Gerald Coetzee"
+            },
+            "dismissal-text": "c and b gerald coetzee",
+            "r": 19,
+            "b": 19,
+            "4s": 3,
+            "6s": 0,
+            "sr": 100,
+            "": 0
+          },
+          {
+            "batsman": {
+              "id": "6177f30d-6d67-4f53-b014-3c41eb8cb757",
+              "name": "Hasan Mahmud"
+            },
+            "dismissal": "catch",
+            "bowler": {
+              "id": "a81da20a-e420-476a-baf6-204fc219dbdd",
+              "name": "Kagiso Rabada"
+            },
+            "catcher": {
+              "id": "dd632169-52e3-4327-830e-dc5a9d18faa5",
+              "name": "Gerald Coetzee"
+            },
+            "dismissal-text": "c gerald coetzee b rabada",
+            "r": 15,
+            "b": 25,
+            "4s": 2,
+            "6s": 0,
+            "sr": 60,
+            "": 0
+          },
+          {
+            "batsman": {
+              "id": "4a0a483d-de7f-4313-b2ed-8eceb3d8bb45",
+              "name": "Mustafizur Rahman"
+            },
+            "dismissal": "catch",
+            "bowler": {
+              "id": "915fed39-1b6a-4bb0-b7ef-88ee2f4152fd",
+              "name": "Lizaad Williams"
+            },
+            "catcher": {
+              "id": "2f50df2f-809d-44f9-b5be-ccb846515861",
+              "name": "David Miller"
+            },
+            "dismissal-text": "c miller b williams",
+            "r": 11,
+            "b": 21,
+            "4s": 2,
+            "6s": 0,
+            "sr": 52.38,
+            "": 0
+          },
+          {
+            "batsman": {
+              "id": "217cafe4-5b6e-4b2b-b7ac-1b52b2b15a1c",
+              "name": "Shoriful Islam"
+            },
+            "dismissal-text": "not out",
+            "r": 6,
+            "b": 4,
+            "4s": 1,
+            "6s": 0,
+            "sr": 150,
+            "": 0
+          }
+        ],
+        "bowling": [
+          {
+            "bowler": {
+              "id": "d3c53885-7016-4228-8a20-1dd98214489d",
+              "name": "Marco Jansen"
+            },
+            "o": 8,
+            "m": 0,
+            "r": 39,
+            "w": 2,
+            "nb": 0,
+            "wd": 5,
+            "eco": 4.9
+          },
+          {
+            "bowler": {
+              "id": "915fed39-1b6a-4bb0-b7ef-88ee2f4152fd",
+              "name": "Lizaad Williams"
+            },
+            "o": 8.4,
+            "m": 1,
+            "r": 56,
+            "w": 2,
+            "nb": 0,
+            "wd": 6,
+            "eco": 6.5
+          },
+          {
+            "bowler": {
+              "id": "dd632169-52e3-4327-830e-dc5a9d18faa5",
+              "name": "Gerald Coetzee"
+            },
+            "o": 10,
+            "m": 0,
+            "r": 62,
+            "w": 3,
+            "nb": 1,
+            "wd": 1,
+            "eco": 6.2
+          },
+          {
+            "bowler": {
+              "id": "a81da20a-e420-476a-baf6-204fc219dbdd",
+              "name": "Kagiso Rabada"
+            },
+            "o": 10,
+            "m": 1,
+            "r": 42,
+            "w": 2,
+            "nb": 1,
+            "wd": 0,
+            "eco": 4.2
+          },
+          {
+            "bowler": {
+              "id": "97e9fec3-81bd-4018-a803-422c7d6d53aa",
+              "name": "Keshav Maharaj"
+            },
+            "o": 10,
+            "m": 0,
+            "r": 32,
+            "w": 1,
+            "nb": 0,
+            "wd": 1,
+            "eco": 3.2
+          }
+        ],
+        "catching": [
+          {
+            "stumped": 0,
+            "runout": 0,
+            "catch": 3,
+            "cb": 0,
+            "lbw": 0,
+            "bowled": 0,
+            "catcher": {
+              "id": "7d662361-8f12-4a52-9a4b-01e8734bd31d",
+              "name": "Heinrich Klaasen"
+            }
+          },
+          {
+            "stumped": 0,
+            "runout": 0,
+            "catch": 2,
+            "cb": 0,
+            "lbw": 0,
+            "bowled": 0,
+            "catcher": {
+              "id": "80504beb-b413-40aa-bfca-d13e7e585fb5",
+              "name": "Andile Phehlukwayo"
+            }
+          },
+          {
+            "stumped": 0,
+            "runout": 0,
+            "catch": 1,
+            "cb": 0,
+            "lbw": 0,
+            "bowled": 0,
+            "catcher": {
+              "id": "d3c53885-7016-4228-8a20-1dd98214489d",
+              "name": "Marco Jansen"
+            }
+          },
+          {
+            "stumped": 0,
+            "runout": 0,
+            "catch": 1,
+            "cb": 1,
+            "lbw": 0,
+            "bowled": 0,
+            "catcher": {
+              "id": "dd632169-52e3-4327-830e-dc5a9d18faa5",
+              "name": "Gerald Coetzee"
+            }
+          },
+          {
+            "stumped": 0,
+            "runout": 0,
+            "catch": 1,
+            "cb": 0,
+            "lbw": 0,
+            "bowled": 0,
+            "catcher": {
+              "id": "2f50df2f-809d-44f9-b5be-ccb846515861",
+              "name": "David Miller"
+            }
+          },
+          {
+            "stumped": 0,
+            "runout": 0,
+            "catch": 0,
+            "cb": 0,
+            "lbw": 1,
+            "bowled": 0,
+            "catcher": {
+              "id": "a81da20a-e420-476a-baf6-204fc219dbdd",
+              "name": "Kagiso Rabada"
+            }
+          }
+        ],
+        "extras": { "r": 17, "b": 0 },
+        "totals": {},
+        "inning": "Bangladesh Inning 1"
+      }
+    ],
+    "matchStarted": true,
+    "matchEnded": true
+  },
+  "status": "success",
+  "info": {
+    "hitsToday": 45,
+    "hitsUsed": 10,
+    "hitsLimit": 100,
+    "credits": 0,
+    "server": 2,
+    "queryTime": 29.0804,
+    "s": 0,
+    "cache": 0
+  }
+}

@@ -1,0 +1,1289 @@
+{
+  "apikey": "73606b7e-12b4-4485-acf3-3ae6d96394e0",
+  "data": {
+    "info": {
+      "id": "bd830e89-3420-4df5-854d-82cfab3e1e04",
+      "name": "ICC Cricket World Cup 2023",
+      "startdate": "2023-10-05",
+      "enddate": "Nov 19",
+      "odi": 48,
+      "t20": 0,
+      "test": 0,
+      "squads": 10,
+      "matches": 48
+    },
+    "matchList": [
+      {
+        "id": "86c9b501-48d1-40f1-bd18-7e6c87ee2930",
+        "name": "South Africa vs Bangladesh, 23rd Match",
+        "matchType": "odi",
+        "status": "South Africa won by 149 runs",
+        "venue": "Wankhede Stadium, Mumbai",
+        "date": "2023-10-24",
+        "dateTimeGMT": "2023-10-24T08:30:00",
+        "teams": ["South Africa", "Bangladesh"],
+        "teamInfo": [
+          {
+            "name": "Bangladesh",
+            "shortname": "BAN",
+            "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+          },
+          {
+            "name": "South Africa",
+            "shortname": "RSA",
+            "img": "https://g.cricapi.com/iapi/82-637877071839088912.webp?w=48"
+          }
+        ],
+        "fantasyEnabled": true,
+        "bbbEnabled": true,
+        "hasSquad": true,
+        "matchStarted": true,
+        "matchEnded": true
+      },
+      {
+        "id": "db703f32-9250-49b9-9ec2-ced9e444e6e3",
+        "name": "Australia vs Netherlands, 24th Match",
+        "matchType": "odi",
+        "status": "Australia won by 309 runs",
+        "venue": "Arun Jaitley Stadium, Delhi",
+        "date": "2023-10-25",
+        "dateTimeGMT": "2023-10-25T08:30:00",
+        "teams": ["Australia", "Netherlands"],
+        "teamInfo": [
+          {
+            "name": "Australia",
+            "shortname": "AUS",
+            "img": "https://g.cricapi.com/iapi/6-637877070670541994.webp?w=48"
+          },
+          {
+            "name": "Netherlands",
+            "shortname": "NED",
+            "img": "https://g.cricapi.com/iapi/55-637877084465746618.webp?w=48"
+          }
+        ],
+        "fantasyEnabled": true,
+        "bbbEnabled": true,
+        "hasSquad": true,
+        "matchStarted": true,
+        "matchEnded": true
+      },
+      {
+        "id": "e396c912-8043-4c92-9664-da93400a568a",
+        "name": "England vs Sri Lanka, 25th Match",
+        "matchType": "odi",
+        "status": "Sri Lanka won by 8 wkts",
+        "venue": "M.Chinnaswamy Stadium, Bengaluru",
+        "date": "2023-10-26",
+        "dateTimeGMT": "2023-10-26T08:30:00",
+        "teams": ["England", "Sri Lanka"],
+        "teamInfo": [
+          {
+            "name": "England",
+            "shortname": "ENG",
+            "img": "https://g.cricapi.com/iapi/23-637877072894080569.webp?w=48"
+          },
+          {
+            "name": "Sri Lanka",
+            "shortname": "SL",
+            "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+          }
+        ],
+        "fantasyEnabled": true,
+        "bbbEnabled": true,
+        "hasSquad": true,
+        "matchStarted": true,
+        "matchEnded": true
+      },
+      {
+        "id": "49222ce0-b203-48b7-951e-019e4fd87a1d",
+        "name": "Pakistan vs South Africa, 26th Match",
+        "matchType": "odi",
+        "status": "South Africa won by 1 wkt",
+        "venue": "MA Chidambaram Stadium, Chennai",
+        "date": "2023-10-27",
+        "dateTimeGMT": "2023-10-27T08:30:00",
+        "teams": ["Pakistan", "South Africa"],
+        "teamInfo": [
+          {
+            "name": "Pakistan",
+            "shortname": "PAK",
+            "img": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=48"
+          },
+          {
+            "name": "South Africa",
+            "shortname": "RSA",
+            "img": "https://g.cricapi.com/iapi/82-637877071839088912.webp?w=48"
+          }
+        ],
+        "fantasyEnabled": true,
+        "bbbEnabled": true,
+        "hasSquad": true,
+        "matchStarted": true,
+        "matchEnded": true
+      },
+      {
+        "id": "6ba8357e-3182-4008-9625-8962bd4e08cb",
+        "name": "Australia vs New Zealand, 27th Match",
+        "matchType": "odi",
+        "status": "Australia won by 5 runs",
+        "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
+        "date": "2023-10-28",
+        "dateTimeGMT": "2023-10-28T05:00:00",
+        "teams": ["Australia", "New Zealand"],
+        "teamInfo": [
+          {
+            "name": "Australia",
+            "shortname": "AUS",
+            "img": "https://g.cricapi.com/iapi/6-637877070670541994.webp?w=48"
+          },
+          {
+            "name": "New Zealand",
+            "shortname": "NZ",
+            "img": "https://g.cricapi.com/iapi/57-637877076980737903.webp?w=48"
+          }
+        ],
+        "fantasyEnabled": true,
+        "bbbEnabled": true,
+        "hasSquad": true,
+        "matchStarted": true,
+        "matchEnded": true
+      },
+      {
+        "id": "1d6dea8b-f1d6-49f5-895a-729c773c074c",
+        "name": "Netherlands vs Bangladesh, 28th Match",
+        "matchType": "odi",
+        "status": "Netherlands won by 87 runs",
+        "venue": "Eden Gardens, Kolkata",
+        "date": "2023-10-28",
+        "dateTimeGMT": "2023-10-28T08:30:00",
+        "teams": ["Netherlands", "Bangladesh"],
+        "teamInfo": [
+          {
+            "name": "Bangladesh",
+            "shortname": "BAN",
+            "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+          },
+          {
+            "name": "Netherlands",
+            "shortname": "NED",
+            "img": "https://g.cricapi.com/iapi/55-637877084465746618.webp?w=48"
+          }
+        ],
+        "fantasyEnabled": true,
+        "bbbEnabled": true,
+        "hasSquad": true,
+        "matchStarted": true,
+        "matchEnded": true
+      },
+      {
+        "id": "7302a459-d31b-4629-9ac3-e8c9eefc9fb4",
+        "name": "India vs England, 29th Match",
+        "matchType": "odi",
+        "status": "India won by 100 runs",
+        "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+        "date": "2023-10-29",
+        "dateTimeGMT": "2023-10-29T08:30:00",
+        "teams": ["India", "England"],
+        "teamInfo": [
+          {
+            "name": "England",
+            "shortname": "ENG",
+            "img": "https://g.cricapi.com/iapi/23-637877072894080569.webp?w=48"
+          },
+          {
+            "name": "India",
+            "shortname": "IND",
+            "img": "https://g.cricapi.com/iapi/31-637877061080567215.webp?w=48"
+          }
+        ],
+        "fantasyEnabled": true,
+        "bbbEnabled": true,
+        "hasSquad": true,
+        "matchStarted": true,
+        "matchEnded": true
+      },
+      {
+        "id": "cece6bb5-a6f6-4134-baa9-cd888793b477",
+        "name": "Afghanistan vs Sri Lanka, 30th Match",
+        "matchType": "odi",
+        "status": "Afghanistan won by 7 wkts",
+        "venue": "Maharashtra Cricket Association Stadium, Pune",
+        "date": "2023-10-30",
+        "dateTimeGMT": "2023-10-30T08:30:00",
+        "teams": ["Afghanistan", "Sri Lanka"],
+        "teamInfo": [
+          {
+            "name": "Afghanistan",
+            "shortname": "AFG",
+            "img": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=48"
+          },
+          {
+            "name": "Sri Lanka",
+            "shortname": "SL",
+            "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+          }
+        ],
+        "fantasyEnabled": true,
+        "bbbEnabled": true,
+        "hasSquad": true,
+        "matchStarted": true,
+        "matchEnded": true
+      },
+      {
+        "id": "96a377ab-cb46-4b7a-83c0-34721a790935",
+        "name": "Pakistan vs Bangladesh, 31st Match",
+        "matchType": "odi",
+        "status": "Pakistan won by 7 wkts",
+        "venue": "Eden Gardens, Kolkata",
+        "date": "2023-10-31",
+        "dateTimeGMT": "2023-10-31T08:30:00",
+        "teams": ["Pakistan", "Bangladesh"],
+        "teamInfo": [
+          {
+            "name": "Bangladesh",
+            "shortname": "BAN",
+            "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+          },
+          {
+            "name": "Pakistan",
+            "shortname": "PAK",
+            "img": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=48"
+          }
+        ],
+        "fantasyEnabled": true,
+        "bbbEnabled": true,
+        "hasSquad": true,
+        "matchStarted": true,
+        "matchEnded": true
+      },
+      {
+        "id": "143e530a-5b1c-4880-9c86-80e7249368a7",
+        "name": "New Zealand vs South Africa, 32nd Match",
+        "matchType": "odi",
+        "status": "South Africa won by 190 runs",
+        "venue": "Maharashtra Cricket Association Stadium, Pune",
+        "date": "2023-11-01",
+        "dateTimeGMT": "2023-11-01T08:30:00",
+        "teams": ["New Zealand", "South Africa"],
+        "teamInfo": [
+          {
+            "name": "New Zealand",
+            "shortname": "NZ",
+            "img": "https://g.cricapi.com/iapi/57-637877076980737903.webp?w=48"
+          },
+          {
+            "name": "South Africa",
+            "shortname": "RSA",
+            "img": "https://g.cricapi.com/iapi/82-637877071839088912.webp?w=48"
+          }
+        ],
+        "fantasyEnabled": true,
+        "bbbEnabled": true,
+        "hasSquad": true,
+        "matchStarted": true,
+        "matchEnded": true
+      },
+      {
+        "id": "e79762a5-ca3c-42d0-b9ec-c2feef6190ac",
+        "name": "India vs Sri Lanka, 33rd Match",
+        "matchType": "odi",
+        "status": "Match not started",
+        "venue": "Wankhede Stadium, Mumbai",
+        "date": "2023-11-02",
+        "dateTimeGMT": "2023-11-02T08:30:00",
+        "teams": ["India", "Sri Lanka"],
+        "teamInfo": [
+          {
+            "name": "India",
+            "shortname": "IND",
+            "img": "https://g.cricapi.com/iapi/31-637877061080567215.webp?w=48"
+          },
+          {
+            "name": "Sri Lanka",
+            "shortname": "SL",
+            "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+          }
+        ],
+        "fantasyEnabled": false,
+        "bbbEnabled": false,
+        "hasSquad": true,
+        "matchStarted": false,
+        "matchEnded": false
+      },
+      {
+        "id": "816388ec-31c9-428d-aeed-87e0c80c2f47",
+        "name": "Netherlands vs Afghanistan, 34th Match",
+        "matchType": "odi",
+        "status": "Match not started",
+        "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+        "date": "2023-11-03",
+        "dateTimeGMT": "2023-11-03T08:30:00",
+        "teams": ["Netherlands", "Afghanistan"],
+        "teamInfo": [
+          {
+            "name": "Afghanistan",
+            "shortname": "AFG",
+            "img": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=48"
+          },
+          {
+            "name": "Netherlands",
+            "shortname": "NED",
+            "img": "https://g.cricapi.com/iapi/55-637877084465746618.webp?w=48"
+          }
+        ],
+        "fantasyEnabled": false,
+        "bbbEnabled": false,
+        "hasSquad": false,
+        "matchStarted": false,
+        "matchEnded": false
+      },
+      {
+        "id": "3d6ba49c-913d-47ab-bf91-e725214c0a98",
+        "name": "New Zealand vs Pakistan, 35th Match",
+        "matchType": "odi",
+        "status": "Match not started",
+        "venue": "M.Chinnaswamy Stadium, Bengaluru",
+        "date": "2023-11-04",
+        "dateTimeGMT": "2023-11-04T05:00:00",
+        "teams": ["New Zealand", "Pakistan"],
+        "teamInfo": [
+          {
+            "name": "New Zealand",
+            "shortname": "NZ",
+            "img": "https://g.cricapi.com/iapi/57-637877076980737903.webp?w=48"
+          },
+          {
+            "name": "Pakistan",
+            "shortname": "PAK",
+            "img": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=48"
+          }
+        ],
+        "fantasyEnabled": false,
+        "bbbEnabled": false,
+        "hasSquad": true,
+        "matchStarted": false,
+        "matchEnded": false
+      },
+      {
+        "id": "da784602-6fba-435c-a1ec-d432bf2c56a1",
+        "name": "England vs Australia, 36th Match",
+        "matchType": "odi",
+        "status": "Match not started",
+        "venue": "Narendra Modi Stadium, Ahmedabad",
+        "date": "2023-11-04",
+        "dateTimeGMT": "2023-11-04T08:30:00",
+        "teams": ["England", "Australia"],
+        "teamInfo": [
+          {
+            "name": "Australia",
+            "shortname": "AUS",
+            "img": "https://g.cricapi.com/iapi/6-637877070670541994.webp?w=48"
+          },
+          {
+            "name": "England",
+            "shortname": "ENG",
+            "img": "https://g.cricapi.com/iapi/23-637877072894080569.webp?w=48"
+          }
+        ],
+        "fantasyEnabled": false,
+        "bbbEnabled": false,
+        "hasSquad": true,
+        "matchStarted": false,
+        "matchEnded": false
+      },
+      {
+        "id": "d92666c5-3921-4dc7-a204-81039d6be88d",
+        "name": "India vs South Africa, 37th Match",
+        "matchType": "odi",
+        "status": "Match not started",
+        "venue": "Eden Gardens, Kolkata",
+        "date": "2023-11-05",
+        "dateTimeGMT": "2023-11-05T08:30:00",
+        "teams": ["India", "South Africa"],
+        "teamInfo": [
+          {
+            "name": "India",
+            "shortname": "IND",
+            "img": "https://g.cricapi.com/iapi/31-637877061080567215.webp?w=48"
+          },
+          {
+            "name": "South Africa",
+            "shortname": "RSA",
+            "img": "https://g.cricapi.com/iapi/82-637877071839088912.webp?w=48"
+          }
+        ],
+        "fantasyEnabled": false,
+        "bbbEnabled": false,
+        "hasSquad": true,
+        "matchStarted": false,
+        "matchEnded": false
+      },
+      {
+        "id": "4975cccc-1c24-4805-bd95-160b412b4b67",
+        "name": "Bangladesh vs Sri Lanka, 38th Match",
+        "matchType": "odi",
+        "status": "Match not started",
+        "venue": "Arun Jaitley Stadium, Delhi",
+        "date": "2023-11-06",
+        "dateTimeGMT": "2023-11-06T08:30:00",
+        "teams": ["Bangladesh", "Sri Lanka"],
+        "teamInfo": [
+          {
+            "name": "Bangladesh",
+            "shortname": "BAN",
+            "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+          },
+          {
+            "name": "Sri Lanka",
+            "shortname": "SL",
+            "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+          }
+        ],
+        "fantasyEnabled": false,
+        "bbbEnabled": false,
+        "hasSquad": true,
+        "matchStarted": false,
+        "matchEnded": false
+      },
+      {
+        "id": "ba462dd6-3909-4511-824d-4f00c4c61cc9",
+        "name": "Australia vs Afghanistan, 39th Match",
+        "matchType": "odi",
+        "status": "Match not started",
+        "venue": "Wankhede Stadium, Mumbai",
+        "date": "2023-11-07",
+        "dateTimeGMT": "2023-11-07T08:30:00",
+        "teams": ["Australia", "Afghanistan"],
+        "teamInfo": [
+          {
+            "name": "Afghanistan",
+            "shortname": "AFG",
+            "img": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=48"
+          },
+          {
+            "name": "Australia",
+            "shortname": "AUS",
+            "img": "https://g.cricapi.com/iapi/6-637877070670541994.webp?w=48"
+          }
+        ],
+        "fantasyEnabled": false,
+        "bbbEnabled": false,
+        "hasSquad": true,
+        "matchStarted": false,
+        "matchEnded": false
+      },
+      {
+        "id": "013bc7ea-b33e-4136-b7cd-eb585b87a80c",
+        "name": "England vs Netherlands, 40th Match",
+        "matchType": "odi",
+        "status": "Match not started",
+        "venue": "Maharashtra Cricket Association Stadium, Pune",
+        "date": "2023-11-08",
+        "dateTimeGMT": "2023-11-08T08:30:00",
+        "teams": ["England", "Netherlands"],
+        "teamInfo": [
+          {
+            "name": "England",
+            "shortname": "ENG",
+            "img": "https://g.cricapi.com/iapi/23-637877072894080569.webp?w=48"
+          },
+          {
+            "name": "Netherlands",
+            "shortname": "NED",
+            "img": "https://g.cricapi.com/iapi/55-637877084465746618.webp?w=48"
+          }
+        ],
+        "fantasyEnabled": false,
+        "bbbEnabled": false,
+        "hasSquad": true,
+        "matchStarted": false,
+        "matchEnded": false
+      },
+      {
+        "id": "3b42e16d-1558-448b-8da7-72b0c0fb1292",
+        "name": "New Zealand vs Sri Lanka, 41st Match",
+        "matchType": "odi",
+        "status": "Match not started",
+        "venue": "M.Chinnaswamy Stadium, Bengaluru",
+        "date": "2023-11-09",
+        "dateTimeGMT": "2023-11-09T08:30:00",
+        "teams": ["New Zealand", "Sri Lanka"],
+        "teamInfo": [
+          {
+            "name": "New Zealand",
+            "shortname": "NZ",
+            "img": "https://g.cricapi.com/iapi/57-637877076980737903.webp?w=48"
+          },
+          {
+            "name": "Sri Lanka",
+            "shortname": "SL",
+            "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+          }
+        ],
+        "fantasyEnabled": false,
+        "bbbEnabled": false,
+        "hasSquad": true,
+        "matchStarted": false,
+        "matchEnded": false
+      },
+      {
+        "id": "6f70887a-97ce-4c38-a990-bda4166ac12a",
+        "name": "South Africa vs Afghanistan, 42nd Match",
+        "matchType": "odi",
+        "status": "Match not started",
+        "venue": "Narendra Modi Stadium, Ahmedabad",
+        "date": "2023-11-10",
+        "dateTimeGMT": "2023-11-10T08:30:00",
+        "teams": ["South Africa", "Afghanistan"],
+        "teamInfo": [
+          {
+            "name": "Afghanistan",
+            "shortname": "AFG",
+            "img": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=48"
+          },
+          {
+            "name": "South Africa",
+            "shortname": "RSA",
+            "img": "https://g.cricapi.com/iapi/82-637877071839088912.webp?w=48"
+          }
+        ],
+        "fantasyEnabled": false,
+        "bbbEnabled": false,
+        "hasSquad": true,
+        "matchStarted": false,
+        "matchEnded": false
+      },
+      {
+        "id": "3bc92fd0-1ff2-4ae2-8c30-916f3d2e89a2",
+        "name": "India vs Netherlands, 45th Match",
+        "matchType": "odi",
+        "status": "Match not started",
+        "venue": "M.Chinnaswamy Stadium, Bengaluru",
+        "date": "2023-11-12",
+        "dateTimeGMT": "2023-11-12T08:30:00",
+        "teams": ["India", "Netherlands"],
+        "teamInfo": [
+          {
+            "name": "India",
+            "shortname": "IND",
+            "img": "https://g.cricapi.com/iapi/31-637877061080567215.webp?w=48"
+          },
+          {
+            "name": "Netherlands",
+            "shortname": "NED",
+            "img": "https://g.cricapi.com/iapi/55-637877084465746618.webp?w=48"
+          }
+        ],
+        "fantasyEnabled": false,
+        "bbbEnabled": false,
+        "hasSquad": true,
+        "matchStarted": false,
+        "matchEnded": false
+      },
+      {
+        "id": "3645a8a4-eb75-46d5-b620-be59119bdea8",
+        "name": "Australia vs Bangladesh, 43rd Match",
+        "matchType": "odi",
+        "status": "Match not started",
+        "venue": "Maharashtra Cricket Association Stadium, Pune",
+        "date": "2023-11-11",
+        "dateTimeGMT": "2023-11-11T05:00:00",
+        "teams": ["Australia", "Bangladesh"],
+        "teamInfo": [
+          {
+            "name": "Australia",
+            "shortname": "AUS",
+            "img": "https://g.cricapi.com/iapi/6-637877070670541994.webp?w=48"
+          },
+          {
+            "name": "Bangladesh",
+            "shortname": "BAN",
+            "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+          }
+        ],
+        "fantasyEnabled": false,
+        "bbbEnabled": false,
+        "hasSquad": true,
+        "matchStarted": false,
+        "matchEnded": false
+      },
+      {
+        "id": "4e5806f1-7cbf-4dde-8f5e-a6e77821e62c",
+        "name": "England vs Pakistan, 44th Match",
+        "matchType": "odi",
+        "status": "Match not started",
+        "venue": "Eden Gardens, Kolkata",
+        "date": "2023-11-11",
+        "dateTimeGMT": "2023-11-11T08:30:00",
+        "teams": ["England", "Pakistan"],
+        "teamInfo": [
+          {
+            "name": "England",
+            "shortname": "ENG",
+            "img": "https://g.cricapi.com/iapi/23-637877072894080569.webp?w=48"
+          },
+          {
+            "name": "Pakistan",
+            "shortname": "PAK",
+            "img": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=48"
+          }
+        ],
+        "fantasyEnabled": false,
+        "bbbEnabled": false,
+        "hasSquad": true,
+        "matchStarted": false,
+        "matchEnded": false
+      },
+      {
+        "id": "e9e3e315-3a35-4386-b151-ab4a027d8b79",
+        "name": "Tbc vs Tbc, 2nd Semi-Final (2nd v 3rd)",
+        "matchType": "odi",
+        "status": "Match not started",
+        "venue": "Eden Gardens, Kolkata",
+        "date": "2023-11-16",
+        "dateTimeGMT": "2023-11-16T08:30:00",
+        "teams": ["Tbc", "Tbc"],
+        "fantasyEnabled": false,
+        "bbbEnabled": false,
+        "hasSquad": false,
+        "matchStarted": false,
+        "matchEnded": false
+      },
+      {
+        "id": "fd2b3b10-e932-47f6-9c6e-a224290e4f5b",
+        "name": "England vs New Zealand, 1st Match",
+        "matchType": "odi",
+        "status": "New Zealand won by 9 wkts",
+        "venue": "Narendra Modi Stadium, Ahmedabad",
+        "date": "2023-10-05",
+        "dateTimeGMT": "2023-10-05T08:30:00",
+        "teams": ["England", "New Zealand"],
+        "teamInfo": [
+          {
+            "name": "England",
+            "shortname": "ENG",
+            "img": "https://g.cricapi.com/iapi/23-637877072894080569.webp?w=48"
+          },
+          {
+            "name": "New Zealand",
+            "shortname": "NZ",
+            "img": "https://g.cricapi.com/iapi/57-637877076980737903.webp?w=48"
+          }
+        ],
+        "fantasyEnabled": true,
+        "bbbEnabled": true,
+        "hasSquad": true,
+        "matchStarted": true,
+        "matchEnded": true
+      },
+      {
+        "id": "eba9b35a-96d4-446b-94d3-63e3886cd74c",
+        "name": "Pakistan vs Netherlands, 2nd Match",
+        "matchType": "odi",
+        "status": "Pakistan won by 81 runs",
+        "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+        "date": "2023-10-06",
+        "dateTimeGMT": "2023-10-06T08:30:00",
+        "teams": ["Pakistan", "Netherlands"],
+        "teamInfo": [
+          {
+            "name": "Netherlands",
+            "shortname": "NED",
+            "img": "https://g.cricapi.com/iapi/55-637877084465746618.webp?w=48"
+          },
+          {
+            "name": "Pakistan",
+            "shortname": "PAK",
+            "img": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=48"
+          }
+        ],
+        "fantasyEnabled": true,
+        "bbbEnabled": true,
+        "hasSquad": true,
+        "matchStarted": true,
+        "matchEnded": true
+      },
+      {
+        "id": "5e19cac7-a215-43df-b02d-04f2172e6090",
+        "name": "Bangladesh vs Afghanistan, 3rd Match",
+        "matchType": "odi",
+        "status": "Bangladesh won by 6 wkts",
+        "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
+        "date": "2023-10-07",
+        "dateTimeGMT": "2023-10-07T05:00:00",
+        "teams": ["Bangladesh", "Afghanistan"],
+        "teamInfo": [
+          {
+            "name": "Afghanistan",
+            "shortname": "AFG",
+            "img": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=48"
+          },
+          {
+            "name": "Bangladesh",
+            "shortname": "BAN",
+            "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+          }
+        ],
+        "fantasyEnabled": true,
+        "bbbEnabled": true,
+        "hasSquad": true,
+        "matchStarted": true,
+        "matchEnded": true
+      },
+      {
+        "id": "88a95ed0-de0d-48fd-8ba3-3c28a22a2d1f",
+        "name": "South Africa vs Sri Lanka, 4th Match",
+        "matchType": "odi",
+        "status": "South Africa won by 102 runs",
+        "venue": "Arun Jaitley Stadium, Delhi",
+        "date": "2023-10-07",
+        "dateTimeGMT": "2023-10-07T08:30:00",
+        "teams": ["South Africa", "Sri Lanka"],
+        "teamInfo": [
+          {
+            "name": "South Africa",
+            "shortname": "RSA",
+            "img": "https://g.cricapi.com/iapi/82-637877071839088912.webp?w=48"
+          },
+          {
+            "name": "Sri Lanka",
+            "shortname": "SL",
+            "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+          }
+        ],
+        "fantasyEnabled": true,
+        "bbbEnabled": true,
+        "hasSquad": true,
+        "matchStarted": true,
+        "matchEnded": true
+      },
+      {
+        "id": "044927a4-25c4-4ed2-a104-898810433263",
+        "name": "India vs Australia, 5th Match",
+        "matchType": "odi",
+        "status": "India won by 6 wkts",
+        "venue": "MA Chidambaram Stadium, Chennai",
+        "date": "2023-10-08",
+        "dateTimeGMT": "2023-10-08T08:30:00",
+        "teams": ["India", "Australia"],
+        "teamInfo": [
+          {
+            "name": "Australia",
+            "shortname": "AUS",
+            "img": "https://g.cricapi.com/iapi/6-637877070670541994.webp?w=48"
+          },
+          {
+            "name": "India",
+            "shortname": "IND",
+            "img": "https://g.cricapi.com/iapi/31-637877061080567215.webp?w=48"
+          }
+        ],
+        "fantasyEnabled": true,
+        "bbbEnabled": true,
+        "hasSquad": true,
+        "matchStarted": true,
+        "matchEnded": true
+      },
+      {
+        "id": "e46277c6-387f-48c3-97e3-6d77adb5b3f0",
+        "name": "New Zealand vs Netherlands, 6th Match",
+        "matchType": "odi",
+        "status": "New Zealand won by 99 runs",
+        "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+        "date": "2023-10-09",
+        "dateTimeGMT": "2023-10-09T08:30:00",
+        "teams": ["New Zealand", "Netherlands"],
+        "teamInfo": [
+          {
+            "name": "Netherlands",
+            "shortname": "NED",
+            "img": "https://g.cricapi.com/iapi/55-637877084465746618.webp?w=48"
+          },
+          {
+            "name": "New Zealand",
+            "shortname": "NZ",
+            "img": "https://g.cricapi.com/iapi/57-637877076980737903.webp?w=48"
+          }
+        ],
+        "fantasyEnabled": true,
+        "bbbEnabled": true,
+        "hasSquad": true,
+        "matchStarted": true,
+        "matchEnded": true
+      },
+      {
+        "id": "8401bef2-09ff-400e-aeae-9ed31a7c0176",
+        "name": "England vs Bangladesh, 7th Match",
+        "matchType": "odi",
+        "status": "England won by 137 runs",
+        "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
+        "date": "2023-10-10",
+        "dateTimeGMT": "2023-10-10T05:00:00",
+        "teams": ["England", "Bangladesh"],
+        "teamInfo": [
+          {
+            "name": "Bangladesh",
+            "shortname": "BAN",
+            "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+          },
+          {
+            "name": "England",
+            "shortname": "ENG",
+            "img": "https://g.cricapi.com/iapi/23-637877072894080569.webp?w=48"
+          }
+        ],
+        "fantasyEnabled": true,
+        "bbbEnabled": true,
+        "hasSquad": true,
+        "matchStarted": true,
+        "matchEnded": true
+      },
+      {
+        "id": "122541d8-5f9b-4866-9660-ee6ff46ef356",
+        "name": "India vs Afghanistan, 9th Match",
+        "matchType": "odi",
+        "status": "India won by 8 wkts",
+        "venue": "Arun Jaitley Stadium, Delhi",
+        "date": "2023-10-11",
+        "dateTimeGMT": "2023-10-11T08:30:00",
+        "teams": ["India", "Afghanistan"],
+        "teamInfo": [
+          {
+            "name": "Afghanistan",
+            "shortname": "AFG",
+            "img": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=48"
+          },
+          {
+            "name": "India",
+            "shortname": "IND",
+            "img": "https://g.cricapi.com/iapi/31-637877061080567215.webp?w=48"
+          }
+        ],
+        "fantasyEnabled": true,
+        "bbbEnabled": true,
+        "hasSquad": true,
+        "matchStarted": true,
+        "matchEnded": true
+      },
+      {
+        "id": "ee7d6019-e4f8-43fc-b47a-f424b5faad08",
+        "name": "Pakistan vs Sri Lanka, 8th Match",
+        "matchType": "odi",
+        "status": "Pakistan won by 6 wkts",
+        "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+        "date": "2023-10-10",
+        "dateTimeGMT": "2023-10-10T08:30:00",
+        "teams": ["Pakistan", "Sri Lanka"],
+        "teamInfo": [
+          {
+            "name": "Pakistan",
+            "shortname": "PAK",
+            "img": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=48"
+          },
+          {
+            "name": "Sri Lanka",
+            "shortname": "SL",
+            "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+          }
+        ],
+        "fantasyEnabled": true,
+        "bbbEnabled": true,
+        "hasSquad": true,
+        "matchStarted": true,
+        "matchEnded": true
+      },
+      {
+        "id": "b8557eb2-28e6-416a-8d38-02750cbad65c",
+        "name": "Australia vs South Africa, 10th Match",
+        "matchType": "odi",
+        "status": "South Africa won by 134 runs",
+        "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+        "date": "2023-10-12",
+        "dateTimeGMT": "2023-10-12T08:30:00",
+        "teams": ["Australia", "South Africa"],
+        "teamInfo": [
+          {
+            "name": "Australia",
+            "shortname": "AUS",
+            "img": "https://g.cricapi.com/iapi/6-637877070670541994.webp?w=48"
+          },
+          {
+            "name": "South Africa",
+            "shortname": "RSA",
+            "img": "https://g.cricapi.com/iapi/82-637877071839088912.webp?w=48"
+          }
+        ],
+        "fantasyEnabled": true,
+        "bbbEnabled": true,
+        "hasSquad": true,
+        "matchStarted": true,
+        "matchEnded": true
+      },
+      {
+        "id": "b5f0e1d4-7357-43a1-a106-caabc1c8189b",
+        "name": "New Zealand vs Bangladesh, 11th Match",
+        "matchType": "odi",
+        "status": "New Zealand won by 8 wkts",
+        "venue": "MA Chidambaram Stadium, Chennai",
+        "date": "2023-10-13",
+        "dateTimeGMT": "2023-10-13T08:30:00",
+        "teams": ["New Zealand", "Bangladesh"],
+        "teamInfo": [
+          {
+            "name": "Bangladesh",
+            "shortname": "BAN",
+            "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+          },
+          {
+            "name": "New Zealand",
+            "shortname": "NZ",
+            "img": "https://g.cricapi.com/iapi/57-637877076980737903.webp?w=48"
+          }
+        ],
+        "fantasyEnabled": true,
+        "bbbEnabled": true,
+        "hasSquad": true,
+        "matchStarted": true,
+        "matchEnded": true
+      },
+      {
+        "id": "fa9365a9-a536-40d4-be32-e94f2c623c5f",
+        "name": "England vs Afghanistan, 13th Match",
+        "matchType": "odi",
+        "status": "Afghanistan won by 69 runs",
+        "venue": "Arun Jaitley Stadium, Delhi",
+        "date": "2023-10-15",
+        "dateTimeGMT": "2023-10-15T08:30:00",
+        "teams": ["England", "Afghanistan"],
+        "teamInfo": [
+          {
+            "name": "Afghanistan",
+            "shortname": "AFG",
+            "img": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=48"
+          },
+          {
+            "name": "England",
+            "shortname": "ENG",
+            "img": "https://g.cricapi.com/iapi/23-637877072894080569.webp?w=48"
+          }
+        ],
+        "fantasyEnabled": true,
+        "bbbEnabled": true,
+        "hasSquad": true,
+        "matchStarted": true,
+        "matchEnded": true
+      },
+      {
+        "id": "9fd1c630-26e0-4971-b39d-a69029f5577e",
+        "name": "India vs Pakistan, 12th Match",
+        "matchType": "odi",
+        "status": "India won by 7 wkts",
+        "venue": "Narendra Modi Stadium, Ahmedabad",
+        "date": "2023-10-14",
+        "dateTimeGMT": "2023-10-14T08:30:00",
+        "teams": ["India", "Pakistan"],
+        "teamInfo": [
+          {
+            "name": "India",
+            "shortname": "IND",
+            "img": "https://g.cricapi.com/iapi/31-637877061080567215.webp?w=48"
+          },
+          {
+            "name": "Pakistan",
+            "shortname": "PAK",
+            "img": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=48"
+          }
+        ],
+        "fantasyEnabled": true,
+        "bbbEnabled": true,
+        "hasSquad": true,
+        "matchStarted": true,
+        "matchEnded": true
+      },
+      {
+        "id": "77e13896-5108-4754-aed3-eb79b0c9e78f",
+        "name": "Australia vs Sri Lanka, 14th Match",
+        "matchType": "odi",
+        "status": "Australia won by 5 wkts",
+        "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+        "date": "2023-10-16",
+        "dateTimeGMT": "2023-10-16T08:30:00",
+        "teams": ["Australia", "Sri Lanka"],
+        "teamInfo": [
+          {
+            "name": "Australia",
+            "shortname": "AUS",
+            "img": "https://g.cricapi.com/iapi/6-637877070670541994.webp?w=48"
+          },
+          {
+            "name": "Sri Lanka",
+            "shortname": "SL",
+            "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+          }
+        ],
+        "fantasyEnabled": true,
+        "bbbEnabled": true,
+        "hasSquad": true,
+        "matchStarted": true,
+        "matchEnded": true
+      },
+      {
+        "id": "f8586503-bbc0-4850-8c9c-f9d45ce58563",
+        "name": "South Africa vs Netherlands, 15th Match",
+        "matchType": "odi",
+        "status": "Netherlands won by 38 runs (43 overs match)",
+        "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
+        "date": "2023-10-17",
+        "dateTimeGMT": "2023-10-17T08:30:00",
+        "teams": ["South Africa", "Netherlands"],
+        "teamInfo": [
+          {
+            "name": "Netherlands",
+            "shortname": "NED",
+            "img": "https://g.cricapi.com/iapi/55-637877084465746618.webp?w=48"
+          },
+          {
+            "name": "South Africa",
+            "shortname": "RSA",
+            "img": "https://g.cricapi.com/iapi/82-637877071839088912.webp?w=48"
+          }
+        ],
+        "fantasyEnabled": true,
+        "bbbEnabled": true,
+        "hasSquad": true,
+        "matchStarted": true,
+        "matchEnded": true
+      },
+      {
+        "id": "ef2995ce-c22c-4700-8d7b-994178cf7766",
+        "name": "New Zealand vs Afghanistan, 16th Match",
+        "matchType": "odi",
+        "status": "New Zealand won by 149 runs",
+        "venue": "MA Chidambaram Stadium, Chennai",
+        "date": "2023-10-18",
+        "dateTimeGMT": "2023-10-18T08:30:00",
+        "teams": ["New Zealand", "Afghanistan"],
+        "teamInfo": [
+          {
+            "name": "Afghanistan",
+            "shortname": "AFG",
+            "img": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=48"
+          },
+          {
+            "name": "New Zealand",
+            "shortname": "NZ",
+            "img": "https://g.cricapi.com/iapi/57-637877076980737903.webp?w=48"
+          }
+        ],
+        "fantasyEnabled": true,
+        "bbbEnabled": true,
+        "hasSquad": true,
+        "matchStarted": true,
+        "matchEnded": true
+      },
+      {
+        "id": "84bf008a-c651-48d3-a247-3b7d7c881bf0",
+        "name": "India vs Bangladesh, 17th Match",
+        "matchType": "odi",
+        "status": "India won by 7 wkts",
+        "venue": "Maharashtra Cricket Association Stadium, Pune",
+        "date": "2023-10-19",
+        "dateTimeGMT": "2023-10-19T08:30:00",
+        "teams": ["India", "Bangladesh"],
+        "teamInfo": [
+          {
+            "name": "Bangladesh",
+            "shortname": "BAN",
+            "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+          },
+          {
+            "name": "India",
+            "shortname": "IND",
+            "img": "https://g.cricapi.com/iapi/31-637877061080567215.webp?w=48"
+          }
+        ],
+        "fantasyEnabled": true,
+        "bbbEnabled": true,
+        "hasSquad": true,
+        "matchStarted": true,
+        "matchEnded": true
+      },
+      {
+        "id": "9dd0a6dc-23d8-4318-9e07-ed3f7d588439",
+        "name": "Australia vs Pakistan, 18th Match",
+        "matchType": "odi",
+        "status": "Australia won by 62 runs",
+        "venue": "M.Chinnaswamy Stadium, Bengaluru",
+        "date": "2023-10-20",
+        "dateTimeGMT": "2023-10-20T08:30:00",
+        "teams": ["Australia", "Pakistan"],
+        "teamInfo": [
+          {
+            "name": "Australia",
+            "shortname": "AUS",
+            "img": "https://g.cricapi.com/iapi/6-637877070670541994.webp?w=48"
+          },
+          {
+            "name": "Pakistan",
+            "shortname": "PAK",
+            "img": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=48"
+          }
+        ],
+        "fantasyEnabled": true,
+        "bbbEnabled": true,
+        "hasSquad": true,
+        "matchStarted": true,
+        "matchEnded": true
+      },
+      {
+        "id": "e4ada4ee-6a67-4503-82bf-b1a966a455f7",
+        "name": "Netherlands vs Sri Lanka, 19th Match",
+        "matchType": "odi",
+        "status": "Sri Lanka won by 5 wkts",
+        "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+        "date": "2023-10-21",
+        "dateTimeGMT": "2023-10-21T05:00:00",
+        "teams": ["Netherlands", "Sri Lanka"],
+        "teamInfo": [
+          {
+            "name": "Netherlands",
+            "shortname": "NED",
+            "img": "https://g.cricapi.com/iapi/55-637877084465746618.webp?w=48"
+          },
+          {
+            "name": "Sri Lanka",
+            "shortname": "SL",
+            "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+          }
+        ],
+        "fantasyEnabled": true,
+        "bbbEnabled": true,
+        "hasSquad": true,
+        "matchStarted": true,
+        "matchEnded": true
+      },
+      {
+        "id": "dc111fd8-d6c1-4273-b24a-05a4bc0f8508",
+        "name": "England vs South Africa, 20th Match",
+        "matchType": "odi",
+        "status": "South Africa won by 229 runs",
+        "venue": "Wankhede Stadium, Mumbai",
+        "date": "2023-10-21",
+        "dateTimeGMT": "2023-10-21T08:30:00",
+        "teams": ["England", "South Africa"],
+        "teamInfo": [
+          {
+            "name": "England",
+            "shortname": "ENG",
+            "img": "https://g.cricapi.com/iapi/23-637877072894080569.webp?w=48"
+          },
+          {
+            "name": "South Africa",
+            "shortname": "RSA",
+            "img": "https://g.cricapi.com/iapi/82-637877071839088912.webp?w=48"
+          }
+        ],
+        "fantasyEnabled": true,
+        "bbbEnabled": true,
+        "hasSquad": true,
+        "matchStarted": true,
+        "matchEnded": true
+      },
+      {
+        "id": "0f3b914b-a85c-4941-bdd7-64b65da9fa23",
+        "name": "India vs New Zealand, 21st Match",
+        "matchType": "odi",
+        "status": "India won by 4 wkts",
+        "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
+        "date": "2023-10-22",
+        "dateTimeGMT": "2023-10-22T08:30:00",
+        "teams": ["India", "New Zealand"],
+        "teamInfo": [
+          {
+            "name": "India",
+            "shortname": "IND",
+            "img": "https://g.cricapi.com/iapi/31-637877061080567215.webp?w=48"
+          },
+          {
+            "name": "New Zealand",
+            "shortname": "NZ",
+            "img": "https://g.cricapi.com/iapi/57-637877076980737903.webp?w=48"
+          }
+        ],
+        "fantasyEnabled": true,
+        "bbbEnabled": true,
+        "hasSquad": true,
+        "matchStarted": true,
+        "matchEnded": true
+      },
+      {
+        "id": "f1ce2f91-e561-4132-8fdc-1def0387c60d",
+        "name": "Tbc vs Tbc, Final",
+        "matchType": "odi",
+        "status": "Match not started",
+        "venue": "Narendra Modi Stadium, Ahmedabad",
+        "date": "2023-11-19",
+        "dateTimeGMT": "2023-11-19T08:30:00",
+        "teams": ["Tbc", "Tbc"],
+        "fantasyEnabled": false,
+        "bbbEnabled": false,
+        "hasSquad": false,
+        "matchStarted": false,
+        "matchEnded": false
+      },
+      {
+        "id": "689fb384-583a-477a-a358-42191a33f425",
+        "name": "Pakistan vs Afghanistan, 22nd Match",
+        "matchType": "odi",
+        "status": "Afghanistan won by 8 wkts",
+        "venue": "MA Chidambaram Stadium, Chennai",
+        "date": "2023-10-23",
+        "dateTimeGMT": "2023-10-23T08:30:00",
+        "teams": ["Pakistan", "Afghanistan"],
+        "teamInfo": [
+          {
+            "name": "Afghanistan",
+            "shortname": "AFG",
+            "img": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=48"
+          },
+          {
+            "name": "Pakistan",
+            "shortname": "PAK",
+            "img": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=48"
+          }
+        ],
+        "fantasyEnabled": true,
+        "bbbEnabled": true,
+        "hasSquad": true,
+        "matchStarted": true,
+        "matchEnded": true
+      },
+      {
+        "id": "01b40bfd-43ed-4d5b-a096-e812a9e320bd",
+        "name": "Tbc vs Tbc, 1st Semi-Final(1st v 4th)",
+        "matchType": "odi",
+        "status": "Match not started",
+        "venue": "Wankhede Stadium, Mumbai",
+        "date": "2023-11-15",
+        "dateTimeGMT": "2023-11-15T08:30:00",
+        "teams": ["Tbc", "Tbc"],
+        "fantasyEnabled": false,
+        "bbbEnabled": false,
+        "hasSquad": false,
+        "matchStarted": false,
+        "matchEnded": false
+      }
+    ]
+  },
+  "status": "success",
+  "info": {
+    "hitsToday": 33,
+    "hitsUsed": 1,
+    "hitsLimit": 100,
+    "credits": 0,
+    "server": 9,
+    "queryTime": 26.5592,
+    "s": 0,
+    "cache": 1
+  }
+}
